@@ -8,24 +8,20 @@ No entanto, MS Excel eh um software proprietario da Microsoft, sendo necessario 
 para utilizacao do mesmo. Como alternativas podemos usar o LibreOffice Calc ou o OpenOffice
 Calc, ambos trabalham com extensoes ".xls e xlsx", formato que trabalharemos no curso.
 
-Voce pode fazer download dos arquivos de instalcacao destes softwares nos links abaixo:
+Voce pode fazer download dos arquivos de instalacao destes softwares nos links abaixo:
 
 https://www.libreoffice.org/
 
 http://www.openoffice.org/
 
+
 Precisamos ainda instalar o modulo **openpyxl**
+-----------------------------------------------
+- Instale o openpyxl usando pip.
 
+- É aconselhável fazer isso em um Virtualenv Python sem pacotes de sistema: **pip install openpyxl**
 
-
-
-
-Instale o openpyxl usando pip.
------------------------------
-
-É aconselhável fazer isso em um Virtualenv Python sem pacotes de sistema:**pip install openpyxl**
-
-Para poder incluir imagens (jpeg, png, bmp,…) em um arquivo openpyxl,
+- Para poder incluir imagens (jpeg, png, bmp,…) em um arquivo openpyxl,
 você também precisará da biblioteca “pillow” que pode ser instalada com: **pip install pillow**
 
 
