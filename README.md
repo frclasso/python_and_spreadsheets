@@ -2,9 +2,9 @@ Python com Excel
 ================
 
 Neste curso vamos apresentar o uso da ferramenta Microsoft Excel, associado
-a poderosa linguagem de programacao Paython.
+a poderosa linguagem de programacao Python.
 
-No entanto, MS Excel eh um sofitware proprietario da Microsoft, sendo necessario licenca,
+No entanto, MS Excel eh um software proprietario da Microsoft, sendo necessario licenca,
 para utilizacao do mesmo. Como alternativas podemos usar o LibreOffice Calc ou o OpenOffice
 Calc, ambos trabalham com extensoes ".xls e xlsx", formato que trabalharemos no curso.
 
@@ -17,17 +17,16 @@ http://www.openoffice.org/
 Precisamos ainda instalar o modulo **openpyxl**
 
 
+
+
+
 Instale o openpyxl usando pip.
 -----------------------------
 
-É aconselhável fazer isso em um Virtualenv Python sem pacotes de sistema:
-
-**pip install openpyxl**
+É aconselhável fazer isso em um Virtualenv Python sem pacotes de sistema:**pip install openpyxl**
 
 Para poder incluir imagens (jpeg, png, bmp,…) em um arquivo openpyxl,
-você também precisará da biblioteca “pillow” que pode ser instalada com:
-
-**pip install pillow**
+você também precisará da biblioteca “pillow” que pode ser instalada com: **pip install pillow**
 
 
 A biblioteca openpyxl
@@ -62,6 +61,9 @@ em aprender o uso da biblioteca openpyxl. O curso nao visa ensinar Excel ou a pr
 Python, o aluno deve adquirir previamente estes conhecimentos.
 
 
+
+Sobre
+-----
 
 Esse material foi desenvolvido por **Fabio R. Classo** para o curso de Python com Excel
 da **JCAVI** Treinamentos em T.I.
