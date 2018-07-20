@@ -38,8 +38,6 @@ O Openpyxl é uma biblioteca Python para ler e gravar arquivos do Excel 2010:
 - xltm
 
 
-
-
 Documentos Excel
 ----------------
 
@@ -60,11 +58,15 @@ Python, o aluno deve adquirir previamente estes conhecimentos.
 
 Sobre
 -----
-
-Esse material foi desenvolvido por **Fabio R. Classo** para o curso de Python com Excel
+Esse material foi desenvolvido por **Fabio R. Classo** para o curso de Python e Spreadsheets
 da **JCAVI** Treinamentos em T.I.
 
+
+![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/jcavi.png "JCAVI")
+
 https://www.jcavitreinamentos.com.br/
+
+https://www.facebook.com/jcavitreinamentos/
 
 Contatos: frclasso@gmail.com
 
