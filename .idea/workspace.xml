@@ -5,110 +5,168 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bceab697-898e-4291-8b7a-926b55a59c53" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_setting_font_style.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/02_setting_font_style2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/3D_barCharts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/vertical_horizontal_stacked_barCharts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/01_creating_a_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/02_writing_cell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/03_appending_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/04_reading_a_cell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/05_read_multiple_cells.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/06_iterating_by_rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/07_iterating_by_columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/08_statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/09_dimensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/10_sheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/11_sheets2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/12_sheets3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/13_merging_cells.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/14_freezing_panes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/15_formulas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/16_insert_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/17_charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zetcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-299100470">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="py" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="53" />
+          <entry key="Python" value="3865" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="53" />
+          <entry key="py" value="3865" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01_freezePanes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/07_Freeze_Panes/01_freezePanes.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zetcode/07_iterating_by_columns.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="198">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01_abrindo_planilha.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/01_abrindo_planilha.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zetcode/08_statistics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02_obtendo_sheets.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/02_obtendo_sheets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03_Obtendo_valores_das_celulas.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/03_Obtendo_valores_das_celulas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05_obtendo_max_rows_columns.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/05_obtendo_max_rows_columns.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06_convertendo_letras_numeros_das_colunas.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/06_convertendo_letras_numeros_das_colunas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="486">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
               <folding>
-                <element signature="e#280#295#0" expanded="true" />
+                <element signature="e#24#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07_obtendo_linhas_e_colunas.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/07_obtendo_linhas_e_colunas.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zetcode/09_dimensions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="576">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="census2010.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/02_Project-reading-data-from-spread-sheat/census2010.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zetcode/10_sheets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="53" selection-start-column="53" selection-end-column="53" />
+            <state relative-caret-position="198">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readCensusExcel.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/02_Project-reading-data-from-spread-sheat/readCensusExcel.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zetcode/11_sheets2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+            <state relative-caret-position="324">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08_acessando_valores_por_coluna.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/08_acessando_valores_por_coluna.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zetcode/12_sheets3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="162">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zetcode/14_freezing_panes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding>
+                <element signature="e#24#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zetcode/13_merging_cells.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zetcode/16_insert_images.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <folding>
+                <element signature="e#24#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zetcode/17_charts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding>
+                <element signature="e#24#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,6 +222,24 @@
         <option value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/08_Charts/01_charts.py" />
         <option value="$PROJECT_DIR$/Openpyxl-readthedocs/3D_barCharts.py" />
         <option value="$PROJECT_DIR$/Openpyxl-readthedocs/vertical_horizontal_stacked_barCharts.py" />
+        <option value="$PROJECT_DIR$/zetcode/README.md" />
+        <option value="$PROJECT_DIR$/zetcode/01_creating_a_file.py" />
+        <option value="$PROJECT_DIR$/zetcode/02_writing_cell.py" />
+        <option value="$PROJECT_DIR$/zetcode/04_reading_a_cell.py" />
+        <option value="$PROJECT_DIR$/zetcode/05_read_multiple_cells.py" />
+        <option value="$PROJECT_DIR$/zetcode/06_iterating_by_rows.py" />
+        <option value="$PROJECT_DIR$/zetcode/07_iterating_by_columns.py" />
+        <option value="$PROJECT_DIR$/zetcode/03_appending_data.py" />
+        <option value="$PROJECT_DIR$/zetcode/08_statistics.py" />
+        <option value="$PROJECT_DIR$/zetcode/09_dimensions.py" />
+        <option value="$PROJECT_DIR$/zetcode/10_sheets.py" />
+        <option value="$PROJECT_DIR$/zetcode/11_sheets2.py" />
+        <option value="$PROJECT_DIR$/zetcode/12_sheets3.py" />
+        <option value="$PROJECT_DIR$/zetcode/13_merging_cells.py" />
+        <option value="$PROJECT_DIR$/zetcode/14_freezing_panes.py" />
+        <option value="$PROJECT_DIR$/zetcode/15_formulas.py" />
+        <option value="$PROJECT_DIR$/zetcode/16_insert_images.py" />
+        <option value="$PROJECT_DIR$/zetcode/17_charts.py" />
       </list>
     </option>
   </component>
@@ -181,7 +257,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,32 +267,13 @@
             <path>
               <item name="python_and_spreadsheets" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_and_spreadsheets" type="462c0819:PsiDirectoryNode" />
-              <item name="Automate-the-boring-stuff-with-python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_and_spreadsheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_and_spreadsheets" type="462c0819:PsiDirectoryNode" />
-              <item name="Automate-the-boring-stuff-with-python" type="462c0819:PsiDirectoryNode" />
-              <item name="Cap12-Working-with-excel-spreadsheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_and_spreadsheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_and_spreadsheets" type="462c0819:PsiDirectoryNode" />
-              <item name="Automate-the-boring-stuff-with-python" type="462c0819:PsiDirectoryNode" />
-              <item name="Cap12-Working-with-excel-spreadsheets" type="462c0819:PsiDirectoryNode" />
-              <item name="01_lendo_dados_de_uma_planilha_externa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_and_spreadsheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_and_spreadsheets" type="462c0819:PsiDirectoryNode" />
-              <item name="Automate-the-boring-stuff-with-python" type="462c0819:PsiDirectoryNode" />
-              <item name="Cap12-Working-with-excel-spreadsheets" type="462c0819:PsiDirectoryNode" />
-              <item name="02_Project-reading-data-from-spread-sheat" type="462c0819:PsiDirectoryNode" />
+              <item name="zetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,8 +306,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3D_barCharts">
-    <configuration name="01_charts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.17_charts">
+    <configuration name="13_merging_cells" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-excel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,17 +315,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/08_Charts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/08_Charts/01_charts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zetcode/13_merging_cells.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="01_freezePanes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14_freezing_panes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-excel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,17 +336,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/07_Freeze_Panes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/07_Freeze_Panes/01_freezePanes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zetcode/14_freezing_panes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="03_unmerging_cells" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15_formulas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-excel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,17 +357,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/06_adjusting_rows_columns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/06_adjusting_rows_columns/03_unmerging_cells.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zetcode/15_formulas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="3D_barCharts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16_insert_images" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-excel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,17 +378,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Openpyxl-readthedocs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/3D_barCharts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zetcode/16_insert_images.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="vertical_horizontal_stacked_barCharts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17_charts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-excel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,30 +399,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Openpyxl-readthedocs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/vertical_horizontal_stacked_barCharts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zetcode/17_charts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.03_unmerging_cells" />
-      <item itemvalue="Python.01_freezePanes" />
-      <item itemvalue="Python.01_charts" />
-      <item itemvalue="Python.vertical_horizontal_stacked_barCharts" />
-      <item itemvalue="Python.3D_barCharts" />
+      <item itemvalue="Python.13_merging_cells" />
+      <item itemvalue="Python.14_freezing_panes" />
+      <item itemvalue="Python.15_formulas" />
+      <item itemvalue="Python.16_insert_images" />
+      <item itemvalue="Python.17_charts" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3D_barCharts" />
-        <item itemvalue="Python.vertical_horizontal_stacked_barCharts" />
-        <item itemvalue="Python.01_charts" />
-        <item itemvalue="Python.01_freezePanes" />
-        <item itemvalue="Python.03_unmerging_cells" />
+        <item itemvalue="Python.17_charts" />
+        <item itemvalue="Python.16_insert_images" />
+        <item itemvalue="Python.15_formulas" />
+        <item itemvalue="Python.14_freezing_panes" />
+        <item itemvalue="Python.13_merging_cells" />
       </list>
     </recent_temporary>
   </component>
@@ -372,26 +443,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="-11" width="1237" height="812" extended-state="6" />
+    <frame x="45" y="-4" width="1235" height="804" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30040485" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50040483" side_tool="true" weight="0.3275862" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.33764368" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26980197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32808024" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994253" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3275862" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.31213018" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994253" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32692307" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50040483" side_tool="true" weight="0.3275862" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3275862" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -409,172 +480,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_setting_font_style.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" lean-forward="true" selection-start-line="13" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/05_obtendo_max_rows_columns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/03_Writing_excel_documents/02_saving_document.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/02_setting_font_style2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/06_convertendo_letras_numeros_das_colunas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#280#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/02_Project-reading-data-from-spread-sheat/readCensusExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/06_convertendo_letras_numeros_das_colunas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#280#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/01_abrindo_planilha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/08_acessando_valores_por_coluna.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/07_obtendo_linhas_e_colunas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/06_convertendo_letras_numeros_das_colunas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="e#280#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/01_abrindo_planilha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/01_abrindo_planilha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-660">
@@ -649,9 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,13 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/3D_barCharts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/vertical_horizontal_stacked_barCharts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -687,9 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,7 +616,7 @@
     <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/01_abrindo_planilha.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -735,10 +627,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/03_Obtendo_valores_das_celulas.py">
+    <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/3D_barCharts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="270">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/02_Project-reading-data-from-spread-sheat/census2010.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2160">
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/07_obtendo_linhas_e_colunas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/06_convertendo_letras_numeros_das_colunas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#280#295#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -749,13 +678,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/06_convertendo_letras_numeros_das_colunas.py">
+    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/03_Obtendo_valores_das_celulas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#280#295#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/02_Project-reading-data-from-spread-sheat/readCensusExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -766,24 +699,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/07_obtendo_linhas_e_colunas.py">
+    <entry file="file://$PROJECT_DIR$/zetcode/01_creating_a_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="252">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/02_Project-reading-data-from-spread-sheat/census2010.py">
+    <entry file="file://$PROJECT_DIR$/zetcode/05_read_multiple_cells.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="53" selection-start-column="53" selection-end-column="53" />
+        <state relative-caret-position="180">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/02_Project-reading-data-from-spread-sheat/readCensusExcel.py">
+    <entry file="file://$PROJECT_DIR$/zetcode/06_iterating_by_rows.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        <state relative-caret-position="234">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="6" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/04_reading_a_cell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/03_appending_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/02_writing_cell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/07_iterating_by_columns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/08_statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/09_dimensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/10_sheets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/11_sheets2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/12_sheets3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/15_formulas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/14_freezing_panes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/13_merging_cells.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/16_insert_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zetcode/17_charts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
