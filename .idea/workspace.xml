@@ -5,28 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bceab697-898e-4291-8b7a-926b55a59c53" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/01_Basics/02_new_workbook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/01_Basics/03_templates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/01_Basics/04_loading_from_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/02_Simple_Usage/01_writing_workbook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/02_Simple_Usage/02_reading_workbook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/02_Simple_Usage/04_using_formulae.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/02_Simple_Usage/06_unmerge_cells.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/02_Simple_Usage/07_inserting_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/02_Simple_Usage/08_fold_columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/03_Pandas_&amp;_Numpy/01_dataframes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/03_Pandas_&amp;_Numpy/02_write_only.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/2D_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3D_AreaChart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3D_barChart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/horizontal_vertical_bar_charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3DLine_Charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/bubble_charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/lineCharts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/scatter_chart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/05_obtendo_max_rows_columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/Cap12-Working-with-excel-spreadsheets/01_lendo_dados_de_uma_planilha_externa/05_obtendo_max_rows_columns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Openpyxl-readthedocs/3D_barCharts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Openpyxl-readthedocs/bar.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Openpyxl-readthedocs/bar3d.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Openpyxl-readthedocs/vertical_horizontal_stacked_barCharts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zetcode/.~lock.barChart.xlsx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zetcode/computer-science-distilled-sample.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,38 +22,40 @@
     <session id="-299100470">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.287" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="3" />
-          <entry key="py" value="76" />
+          <entry key="py" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="55" />
-          <entry key="Python" value="9511" />
+          <entry key="Python" value="12179" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="3" />
-          <entry key="Python" value="76" />
+          <entry key="Python" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="55" />
-          <entry key="py" value="9511" />
+          <entry key="py" value="12179" />
         </counts>
       </usages-collector>
     </session>
@@ -85,13 +71,61 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3D_barChart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="180">
               <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="e#24#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/bubble_charts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="516">
+              <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+              <folding>
+                <element signature="e#24#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/lineCharts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="62" column="80" selection-start-line="62" selection-start-column="80" selection-end-line="62" selection-end-column="80" />
+              <folding>
+                <element signature="e#24#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/scatter_chart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#24#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3DLine_Charts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+              <folding>
+                <element signature="e#24#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,10 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/04_Project_Updating_a_Spreadsheet/01_setting_font_style.py" />
-        <option value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/01_setting_font_style.py" />
-        <option value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/automate_online-materials/02_setting_font_style2.py" />
-        <option value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/02_setting_font_style2.py" />
         <option value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/05_formulas/01_writeFormula.py" />
         <option value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/05_formulas/02_data_only.py" />
         <option value="$PROJECT_DIR$/Automate-the-boring-stuff-with-python/06_adjusting_rows_columns/01_dimension.py" />
@@ -174,6 +204,10 @@
         <option value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3D_AreaChart.py" />
         <option value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/horizontal_vertical_bar_charts.py" />
         <option value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3D_barChart.py" />
+        <option value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/bubble_charts.py" />
+        <option value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3DLine_Charts.py" />
+        <option value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/lineCharts.py" />
+        <option value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/scatter_chart.py" />
       </list>
     </option>
   </component>
@@ -253,29 +287,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3D_barChart">
-    <configuration name="02_write_only" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-excel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Openpyxl-readthedocs/03_Pandas_&amp;_Numpy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/03_Pandas_&amp;_Numpy/02_write_only.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2D_chart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.scatter_chart">
+    <configuration name="3DLine_Charts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-excel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,28 +300,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/2D_chart.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3D_AreaChart" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-excel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3D_AreaChart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3DLine_Charts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="horizontal_vertical_bar_charts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bubble_charts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-excel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,7 +342,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/horizontal_vertical_bar_charts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/bubble_charts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lineCharts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-excel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/lineCharts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scatter_chart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-excel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/scatter_chart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,19 +394,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.02_write_only" />
-      <item itemvalue="Python.2D_chart" />
-      <item itemvalue="Python.3D_AreaChart" />
-      <item itemvalue="Python.horizontal_vertical_bar_charts" />
       <item itemvalue="Python.3D_barChart" />
+      <item itemvalue="Python.bubble_charts" />
+      <item itemvalue="Python.lineCharts" />
+      <item itemvalue="Python.3DLine_Charts" />
+      <item itemvalue="Python.scatter_chart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scatter_chart" />
+        <item itemvalue="Python.3DLine_Charts" />
+        <item itemvalue="Python.lineCharts" />
+        <item itemvalue="Python.bubble_charts" />
         <item itemvalue="Python.3D_barChart" />
-        <item itemvalue="Python.horizontal_vertical_bar_charts" />
-        <item itemvalue="Python.3D_AreaChart" />
-        <item itemvalue="Python.2D_chart" />
-        <item itemvalue="Python.02_write_only" />
       </list>
     </recent_temporary>
   </component>
@@ -391,13 +425,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="-11" width="1237" height="812" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25412542" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25412542" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3275862" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.31508875" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32692307" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.31508875" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,37 +468,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zetcode/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret column="21" selection-start-column="21" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zetcode/17_charts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zetcode/14_freezing_panes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zetcode/16_insert_images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zetcode/01_creating_a_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -794,8 +798,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3D_barChart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="180">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/bubble_charts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/3DLine_Charts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding>
+            <element signature="e#24#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/lineCharts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="62" column="80" selection-start-line="62" selection-start-column="80" selection-end-line="62" selection-end-column="80" />
+          <folding>
+            <element signature="e#24#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Openpyxl-readthedocs/04_charts/scatter_chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="e#24#53#0" expanded="true" />
           </folding>
