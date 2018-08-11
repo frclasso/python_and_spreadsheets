@@ -39,4 +39,3 @@ ws.add_chart(c1, "A10")
 wb.save('line3D.xlsx')
 print('Done.')
 
-"""Nao exibiu em 3D."""
